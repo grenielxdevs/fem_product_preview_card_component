@@ -126,6 +126,10 @@ img {
     width: 100%;
 }
 
+.card .card-content a img {
+    margin-right: 5px;
+}
+
 .card .card-sp {
     display: none;
 }
